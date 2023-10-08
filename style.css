@@ -156,7 +156,8 @@ html, body {
 
 #elem3 p {
     font-size: 23px;
-    font-family: domain;
+    font-family: "Editorial New light", sans-serif;
+
     font-weight: 100;
     color: #656565;
 }
@@ -168,7 +169,8 @@ html, body {
 }
 
 #elem2 h3 {
-    font-family: domain;
+    font-family: "Editorial New light", sans-serif;
+
     font-size: 45px;
     /* background-color: red; */
     color: #2f2f2f;
@@ -177,7 +179,8 @@ html, body {
 }
 
 #elem2 h6 {
-    font-family: domain;
+    font-family: "Editorial New light", sans-serif;
+
     font-size: 15px;
     /* background-color: red; */
     color: #2f2f2f;
@@ -189,7 +192,7 @@ html, body {
 #page1 h1 {
     display: flex;
     flex-wrap: wrap;
-    font-size: 390px;
+    font-size: 550px;
     text-align: center;
     align-self: center;
     height: 80%;
@@ -206,7 +209,7 @@ html, body {
 }
 
 #page2 {
-    height: 150vh;
+    height: 155vh;
     width: 100%;
     background-color: #c8c5c3;
     display: flex;
@@ -227,6 +230,7 @@ html, body {
     font-family: canopee;
     line-height: 150px;
     font-weight: 100;
+    line-height: 6.9vw;
 }
 
 #page2-left h2 span {
@@ -242,9 +246,9 @@ html, body {
 
 #page2-left p {
     font-size: 34px;
-    font-family: domain;
+    font-family: "Editorial New light", sans-serif;
     color: #2f2f2f;
-    margin-top: 20px;
+    margin-top: 2px
 }
 
 #page2-right {
@@ -261,10 +265,17 @@ html, body {
 
 #page2-right h1 {
     font-family: canopee;
-    font-size: 140px;
+    width:125vh;
+    justify-content: center;
+    align-self: center;
     font-weight: 100;
     letter-spacing: -1px;
+    padding-right:1vh;
+    padding-bottom:4vh;
+    font-size: 7.9vw;
+    line-height: 6.9vw;
 }
+
 
 #page3 {
     padding-bottom: 100px;
@@ -281,7 +292,7 @@ html, body {
     color: #c8c5c3;
     margin-left: 2%;
     padding: 0 20px;
-    line-height: 500px;
+    line-height:500px;
     font-family: canopee;
 }
 
@@ -322,7 +333,8 @@ html, body {
 
 #page4-right p {
     font-size: 34px;
-    font-family: domain;
+    font-family: "Editorial New light", sans-serif;
+
     font-weight: 100;
     color: #2f2f2f;
     margin-bottom: 150px;
@@ -391,7 +403,8 @@ html, body {
 
 #page5 h1 {
     font-size: 100px;
-    font-family: domain;
+    font-family: "Editorial New light", sans-serif;
+
     font-weight: 100;
     display: inline-block;
     /* background-color: red; */
