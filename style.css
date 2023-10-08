@@ -428,6 +428,58 @@ html, body {
     background-color: #c8c5c3;
 }
 
+
+
+.page7{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    height: 100vh;
+}
+
+.page-left7{
+    display: flex;
+    flex-wrap: wrap;
+    width: 63%;
+    background-color: red;
+}
+
+.part1{
+    width: 43%;
+    height: 40%;
+    background-color: yellow;
+    border-right: solid  #1b1b1b 0.2vh;
+}
+
+
+.part1 h1{
+    margin: 4.5vh 4vh 0 4vh;
+    font-family: canopee;
+    font-size: 7.5vh;
+    font-weight: 500;
+}
+
+.part1 h4{
+    margin: 1vh 4vh 0 4vh;
+    font-family: "Editorial New light", sans-serif;
+    font-size: 2vh;
+
+}
+
+.part1 p {
+    margin: 1vh 4vh 0 4vh;
+    font-family: "Editorial New light", sans-serif;
+    font-size: 4.9vh;
+     
+}
+
+
+.part2{
+    width: 57%;
+    height: 40%;
+    background-color: white;
+}
+
 @keyframes scroll {
     0% {
         transform: translateX(0);
