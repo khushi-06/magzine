@@ -435,6 +435,7 @@ html, body {
     width: 100%;
     background-color: black;
     height: 100vh;
+    
 }
 
 .page-left7{
@@ -442,6 +443,7 @@ html, body {
     flex-wrap: wrap;
     width: 63%;
     background-color: red;
+    
 }
 
 .part1{
@@ -449,14 +451,16 @@ html, body {
     height: 40%;
     background-color: yellow;
     border-right: solid  #1b1b1b 0.2vh;
+    border-bottom: solid  #1b1b1b 0.2vh;
+    
 }
 
 
 .part1 h1{
     margin: 4.5vh 4vh 0 4vh;
     font-family: canopee;
-    font-size: 7.5vh;
-    font-weight: 500;
+    font-size: 7.8vh;
+    font-weight: 400;
 }
 
 .part1 h4{
@@ -478,6 +482,15 @@ html, body {
     width: 57%;
     height: 40%;
     background-color: white;
+    border-bottom: solid  #1b1b1b 0.2vh p;
+}
+
+.part2 img {
+    width: 87%;
+    height: 90%;
+    justify-items: center;
+    padding: 2vh;
+    margin: 2.3vh 5vh;
 }
 
 @keyframes scroll {
