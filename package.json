@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "locomotive-scroll": "^4.1.4"
+    "locomotive-scroll": "^4.1.4",
+    "next": "^13.5.4"
   }
 }
