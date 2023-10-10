@@ -1,10 +1,9 @@
-import style from '@/component/Mainpage/Mainpage.module.css';
+
 
 
 const Mainpage = () => {
   return (
     <html lang="en">
-      
       <body>
         <div id="main">
           <div id="page1">
@@ -14,7 +13,7 @@ const Mainpage = () => {
                 src="https://uploads-ssl.webflow.com/5f2429f172d117fcee10e819/5f7f87c8b81a6e7a214312f0_header.svg"
                 alt=""
               />
-              <i class="ri-menu-3-line"></i>
+              <i className="ri-menu-3-line"></i>
             </div>
             <div id="elems">
               <div id="elem1">
@@ -59,7 +58,7 @@ const Mainpage = () => {
                 </p>
               </div>
             </div>
-            <div class="mainhead">
+            <div className="mainhead">
               <h1>MIRANDA</h1>
             </div>
           </div>
@@ -95,9 +94,9 @@ const Mainpage = () => {
               alt=""
             />
           </div>
-          <div class="page7">
-            <div class="page-left7">
-              <div class="part1">
+          <div className="page7">
+            <div className="page-left7">
+              <div className="part1">
                 <h1>UPCOMING NEXT</h1>
                 <p>
                   Fresh entry - A selected work from the latest digital
@@ -105,11 +104,11 @@ const Mainpage = () => {
                 </p>
                 <h4>TIP! Click on the image to explore</h4>
               </div>
-              <div class="part2">
+              <div className="part2">
                 <img src="https://assets.website-files.com/5f9085a4041dd5427c5ac8ae/645b5c79f349770ebcc28ec4_thumbnail-small.webp?" />
               </div>
             </div>
-            <div class="page-right7">
+            <div className="page-right7">
               <h4>COMING SOON HERE</h4>
             </div>
           </div>
@@ -152,14 +151,14 @@ const Mainpage = () => {
           </div>
           <div id="page6"></div>
         </div>
-        <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js"></script>
+        {/* <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js"></script>
         <script
           src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"
           integrity="sha512-cOH8ndwGgPo+K7pTvMrqYbmI8u8k6Sho3js0gOqVWTmQMlLIi6TbqGWRTpf1ga8ci9H3iPsvDLr4X7xwhC/+DQ=="
           crossorigin="anonymous"
           referrerpolicy="no-referrer"
         ></script>
-        <script src="script.js"></script>
+        <script src="script.js"></script> */}
       </body>
     </html>
   )
