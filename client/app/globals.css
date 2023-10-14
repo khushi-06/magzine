@@ -435,19 +435,10 @@ html, body {
     
 }
 
-.page-left7{
-    display: flex;
-    flex-wrap: wrap;
-    width: 70%;
-    
-}
 
 .part1{
-    width: 43%;
-    height: 40%;
     border-right: solid  #1b1b1b 0.3vh;
-    
-    
+   
 }
 
 
@@ -487,7 +478,7 @@ html, body {
     margin: 2.3vh 5vh;
 }
 
-.page-right7 {
+.part3 {
     display: flex;
     flex-wrap: wrap;
     text-align: center;
@@ -498,7 +489,7 @@ html, body {
 
 
 
-.page-right7 h4{
+.part3 h4{
     font-size: large;
     font-family: canopee;
     width:60%;

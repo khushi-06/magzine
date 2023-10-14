@@ -95,7 +95,6 @@ const Mainpage = () => {
             />
           </div>
           <div className="page7">
-            <div className="page-left7">
               <div className="part1">
                 <h1>UPCOMING NEXT</h1>
                 <p>
@@ -107,8 +106,7 @@ const Mainpage = () => {
               <div className="part2">
                 <img src="https://assets.website-files.com/5f9085a4041dd5427c5ac8ae/645b5c79f349770ebcc28ec4_thumbnail-small.webp?" />
               </div>
-            </div>
-            <div className="page-right7">
+            <div className="part3">
               <h4>COMING SOON HERE</h4>
             </div>
           </div>
